@@ -24,8 +24,8 @@ I'm a Full‑stack developer with interests in DevOps, Cloud development, Embedd
 - LinkedIn: [Oliwer](https://www.linkedin.com/in/ovez)
 - Telegram: @OveZThaKing
 
-```markdown
-## 📈 Statystyki GitHub
+
+## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ovezthaking&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ovezthaking&layout=compact&theme=tokyonight)
-```
+
