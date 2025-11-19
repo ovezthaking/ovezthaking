@@ -1,6 +1,6 @@
 # Hi, I'm Oliwer 👋
 
-I'm a Full‑stack developer with interests in DevOps, Cloud development, Embedded Systems, and Mobile Development (Flutter / Kotlin). I also enjoy exploring AI/ML solutions and have projects that use these technologies. I like writing clean code, solving problems, and learning new tools and techniques.
+I'm a Full‑stack developer with interests in DevOps, Cloud development, Fullstack Development, Embedded Systems, and Mobile Development (Flutter / Kotlin). I also enjoy exploring AI/ML solutions and have projects that use these technologies. I like writing clean code, solving problems, and learning new tools and techniques.
 
 ## 🔭 What I'm working on
 - Bachelor's thesis — AddiPi: a cloud-based 3D printer management system using microservices
