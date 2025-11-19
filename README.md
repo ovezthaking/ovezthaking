@@ -4,7 +4,7 @@ I'm a Full‑stack developer with interests in DevOps, Cloud development, Embedd
 
 ## 🔭 What I'm working on
 - Bachelor's thesis — AddiPi: a cloud-based 3D printer management system using microservices
-- Improving skills in React, JavaScript, Python, Azure/AWS, Docker, and Node.js
+- Improving skills in React, JavaScript/TypeScript, Python, Azure/AWS, Docker, and Node.js
 
 ## 🛠️ Tech & Tools
 - JavaScript
