@@ -7,7 +7,7 @@ I'm a Full‑stack developer with interests in DevOps, Cloud development, Fullst
 - Improving skills in React, JavaScript/TypeScript, Python, Azure/AWS, Docker, and Node.js
 
 ## 🛠️ Tech & Tools
-- JavaScript
+- JavaScript, TypeScript
 - React
 - Python
 - Docker
