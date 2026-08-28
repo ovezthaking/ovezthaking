@@ -3,7 +3,7 @@
 I'm a Full‑stack developer with interests in DevOps, Cloud development, Embedded Systems, and Mobile Development (Flutter / Kotlin). I also enjoy exploring AI/ML solutions and have projects that use these technologies. I like writing clean code, solving problems, and learning new tools and techniques.
 
 ## 🔭 What I'm working on 
-- Bachelor's thesis — AddiPi: a cloud-based 3D printer management system using microservices
+- Autonomous AI Revenue System - a 3-stage multi-agent AI system (MAS) designed to autonomously generate and scale digital revenue streams with human-in-the-loop oversight.
 - Improving skills in AI Engineering, React, JavaScript/TypeScript, Python, Azure/AWS, Docker, and Node.js
 
 ## 🛠️ Tech & Tools
