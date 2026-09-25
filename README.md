@@ -8,10 +8,10 @@ I'm a Full‑stack developer with interests in DevOps, Cloud development, Embedd
 
 ## 🛠️ Tech & Tools
 - JavaScript, TypeScript
-- React
+- React / Next.js
 - Python
 - Docker
-- Git / GitHub
+- Git / GitHub / Gerrit
 - AWS / Azure
 
 ## ⭐ Selected projects
